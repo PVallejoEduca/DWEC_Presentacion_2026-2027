@@ -1,3 +1,5 @@
+![Portada de DWEC - Presentación](./assets/repo-cover-dwec-2026-2027.png)
+
 # Desarrollo Web en Entorno Cliente
 
 ## Curso 2026-2027

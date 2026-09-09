@@ -24,13 +24,13 @@ Repositorio principal de **Desarrollo Web en Entorno Cliente (DWEC)**. Contiene 
 
 ## Presentación
 
-El módulo aborda las arquitecturas y tecnologías de programación ejecutadas en el navegador. El alumnado aprenderá a escribir código para clientes web, utilizar los objetos del lenguaje y del navegador, manipular el documento mediante el DOM, gestionar eventos, obtener datos de forma asíncrona y desarrollar aplicaciones con React.
+En este módulo conocerás las arquitecturas y tecnologías de programación ejecutadas en el navegador. Aprenderás a escribir código para clientes web, utilizar los objetos del lenguaje y del navegador, manipular el documento mediante el DOM, gestionar eventos, obtener datos de forma asíncrona y desarrollar aplicaciones con React.
 
-Los contenidos son acumulativos: cada unidad se apoya en las anteriores. El curso combinará explicaciones breves con ejercicios prácticos de dificultad progresiva y pequeños proyectos que integren lo aprendido.
+Los contenidos son acumulativos: cada unidad se apoya en las anteriores. Combinarás explicaciones breves con ejercicios prácticos de dificultad progresiva y pequeños proyectos en los que aplicarás lo aprendido.
 
 ## Objetivos
 
-Al finalizar el módulo, el alumnado deberá ser capaz de:
+Al finalizar el módulo, serás capaz de:
 
 - Seleccionar lenguajes, arquitecturas y herramientas adecuadas para el desarrollo web en entorno cliente.
 - Escribir y verificar código JavaScript ejecutado en navegadores web.
@@ -39,11 +39,11 @@ Al finalizar el módulo, el alumnado deberá ser capaz de:
 - Desarrollar aplicaciones que se comuniquen de forma asíncrona con servicios y fuentes de datos.
 - Crear aplicaciones frontend con React, sus hooks, enrutamiento y librerías complementarias.
 - Probar, documentar y mantener el software utilizando herramientas de control de versiones.
-- Trabajar con autonomía, colaborar y mantener actualizados los conocimientos técnicos.
+- Trabajar con autonomía, colaborar y mantener actualizados tus conocimientos técnicos.
 
 ## Unidades de trabajo
 
-Los repositorios de las unidades permanecerán privados y se habilitarán conforme avance el curso. Hasta que se conceda acceso, GitHub puede mostrar un error al abrir sus enlaces.
+Los repositorios de las unidades permanecerán privados y se habilitarán conforme avance el curso. Hasta que tengas acceso, GitHub puede mostrarte un error al abrir sus enlaces.
 
 | Unidad | Contenido | Resultados de aprendizaje relacionados | Materiales |
 | --- | --- | --- | --- |
@@ -69,18 +69,18 @@ Los repositorios de las unidades permanecerán privados y se habilitarán confor
 
 ## Metodología
 
-La metodología será activa, práctica y participativa. El alumnado y el profesor comparten la responsabilidad del proceso de aprendizaje.
+Aprenderás de forma activa, práctica y participativa. Tú y tu profesor compartiréis la responsabilidad de tu proceso de aprendizaje.
 
-- Estudio de los materiales de cada unidad.
-- Ejercicios breves para consolidar conceptos.
-- Actividades prácticas y proyectos de dificultad progresiva.
-- Uso de Git y GitHub para mantener y documentar el código.
-- Resolución de dudas mediante el aula virtual, los foros y la mensajería oficial.
-- Sesiones online teórico-prácticas, al menos una por unidad cuando la organización del curso lo permita.
-- Retroalimentación sobre las entregas para orientar la mejora.
-- Participación y colaboración entre el alumnado.
+- Estudiarás los materiales de cada unidad.
+- Resolverás ejercicios breves para consolidar conceptos.
+- Realizarás actividades prácticas y proyectos de dificultad progresiva.
+- Utilizarás Git y GitHub para mantener y documentar tu código.
+- Podrás resolver tus dudas mediante el aula virtual, los foros y la mensajería oficial.
+- Participarás en sesiones online teórico-prácticas, al menos una por unidad cuando la organización del curso lo permita.
+- Recibirás comentarios sobre tus entregas para ayudarte a mejorar.
+- Participarás y colaborarás con tus compañeros y compañeras.
 
-Las unidades y sus actividades se abrirán de manera progresiva. Las tareas tendrán plazos definidos en el aula virtual y deberán entregarse mediante el procedimiento indicado en cada caso.
+Las unidades y sus actividades se abrirán de manera progresiva. Encontrarás los plazos de las tareas en el aula virtual y deberás entregarlas mediante el procedimiento indicado en cada caso.
 
 ## Recursos y herramientas
 
@@ -99,15 +99,15 @@ Las unidades y sus actividades se abrirán de manera progresiva. Las tareas tend
 > [!WARNING]
 > Este apartado resume el sistema utilizado en 2025-2026. Pablo Vallejo confirmará en el Aula Virtual los criterios definitivos de 2026-2027.
 
-La evaluación se organizará por resultados de aprendizaje. Como referencia:
+Tu evaluación se organizará por resultados de aprendizaje. Como referencia:
 
-- Cada RA deberá superarse con una calificación mínima de 5.
-- La calificación final se obtendrá mediante el promedio ponderado de los RA.
+- Deberás superar cada RA con una calificación mínima de 5.
+- Tu calificación final se obtendrá mediante el promedio ponderado de los RA.
 - El curso contará con dos periodos de evaluación.
-- Para permanecer en evaluación continua se deberá entregar al menos el 75 % de las actividades indicadas en cada evaluación.
-- Las pruebas presenciales que se establezcan tendrán carácter obligatorio.
+- Para permanecer en evaluación continua deberás entregar al menos el 75 % de las actividades indicadas en cada evaluación.
+- Deberás realizar las pruebas presenciales que se establezcan, ya que serán obligatorias.
 - Las actividades fraudulentas o cuya autoría no pueda acreditarse podrán calificarse con 0.
-- El profesor podrá solicitar una defensa oral, online o presencial de una entrega para comprobar su autoría y dominio técnico.
+- Tu profesor podrá pedirte una defensa oral, online o presencial de una entrega para comprobar tu autoría y dominio técnico.
 
 ### Evaluación continua de referencia
 
@@ -118,7 +118,7 @@ La evaluación se organizará por resultados de aprendizaje. Como referencia:
 
 ### Evaluación final de referencia
 
-Cuando no se alcance el mínimo de entregas requerido para la evaluación continua:
+Si no alcanzas el mínimo de entregas requerido para la evaluación continua, se aplicarán estos pesos:
 
 | Instrumento | Peso |
 | --- | ---: |
@@ -127,15 +127,15 @@ Cuando no se alcance el mínimo de entregas requerido para la evaluación contin
 
 ### Recuperación
 
-El alumnado que no supere todos los RA contará con un plan de recuperación centrado en los resultados pendientes. Este podrá incluir pruebas, actividades complementarias, trabajos y tareas no entregadas o no superadas.
+Si no superas todos los RA, contarás con un plan de recuperación centrado en los resultados que tengas pendientes. Este podrá incluir pruebas, actividades complementarias, trabajos y tareas no entregadas o no superadas.
 
 ## Atención a la diversidad
 
-Se adoptarán las medidas necesarias para facilitar que todo el alumnado pueda alcanzar los resultados de aprendizaje. Según las necesidades detectadas, podrán contemplarse tutorías, adaptación de recursos, flexibilización de tiempos y coordinación con el departamento de orientación.
+Contarás con las medidas de apoyo necesarias para facilitar que puedas alcanzar los resultados de aprendizaje. Según tus necesidades, estas medidas podrán incluir tutorías, adaptación de recursos, flexibilización de tiempos y coordinación con el departamento de orientación.
 
 ## Formación en empresa
 
-La programación de referencia contempla que los RA5, RA6 y RA7 puedan trabajarse parcialmente durante la estancia formativa en empresa. El plan individual del alumnado determinará qué resultados se desarrollan allí y su ponderación concreta.
+La programación de referencia contempla que los RA5, RA6 y RA7 puedan trabajarse parcialmente durante la estancia formativa en empresa. Tu plan individual determinará qué resultados desarrollarás allí y su ponderación concreta.
 
 ## Calendario 2026-2027
 

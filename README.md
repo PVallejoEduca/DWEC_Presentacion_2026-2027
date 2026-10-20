@@ -96,9 +96,6 @@ Las unidades y sus actividades se abrirán de manera progresiva. Encontrarás lo
 
 ## Evaluación
 
-> [!WARNING]
-> Este apartado resume el sistema utilizado en 2025-2026. Pablo Vallejo confirmará en el Aula Virtual los criterios definitivos de 2026-2027.
-
 Tu evaluación se organizará por resultados de aprendizaje. Como referencia:
 
 - Deberás superar cada RA con una calificación mínima de 5.
@@ -147,6 +144,3 @@ Pendiente de publicación en el Aula Virtual:
 - Pruebas presenciales.
 - Periodos de evaluación y recuperación.
 
-## Documento de referencia
-
-- [Programación de DWEC 2025-2026](https://docs.google.com/document/d/1hKdMZjiPFnl7wGn8fZVtKKS_l5fsty0BQx99bDI4wh0/edit)

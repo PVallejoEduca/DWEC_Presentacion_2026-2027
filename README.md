@@ -4,9 +4,6 @@
 
 Repositorio principal de **Desarrollo Web en Entorno Cliente (DWEC)**. Contiene la presentación de la asignatura, una síntesis de su programación y el acceso progresivo a los materiales de cada unidad de trabajo.
 
-> [!IMPORTANT]
-> Esta presentación se ha preparado a partir de la programación de 2025-2026. Las fechas, horarios, calendarios y criterios organizativos deberán confirmarse para el curso 2026-2027 antes de considerarlos definitivos.
-
 ## Información general
 
 | Dato | Información |
